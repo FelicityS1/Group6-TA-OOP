@@ -1,4 +1,3 @@
-## Group 6 Terminal Assessment - OOP
 
 ### GROUP INFORMATION  
 Section: A2101                                                                                                                     
