@@ -32,6 +32,10 @@ Each section has been created to give clear explanations, step-by-step instructi
    
    1. The user must have a laptop or PC
 
+  ACCESSING THE SYSTEM
+  
+   1. The link of the application is provided by our group.
+   2. The employees have their own verified and unique user credentials.
 
 <br />
 
