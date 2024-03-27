@@ -60,4 +60,4 @@ Each section has been created to give clear explanations, step-by-step instructi
 
 **TECHNICAL INFORMATION**
 
-![Class Diagram](/Group6-TA-OOP/IMG_0839.png)
+![Class Diagram](file:///C:/Users/fdsar/Downloads/Group%206%20__%20Flow%20Diagram,Schema%20&%20ERD%20for%20MotorPH%20Payroll%20System-Schema%20Diagram.webp)
