@@ -58,3 +58,6 @@ Each section has been created to give clear explanations, step-by-step instructi
    *Finance/HR officers can configure payroll settings, such as tax rates, benefit deductions, and overtime rules, providing flexibility to adapt to changing regulatory requirements and organisational policies.*
 
 
+**TECHNICAL INFORMATION**
+
+![Class Diagram](/Group6-TA-OOP/main/IMG_0839.png)
