@@ -60,4 +60,4 @@ Each section has been created to give clear explanations, step-by-step instructi
 
 **TECHNICAL INFORMATION**
 
-![Class Diagram](/Group6-TA-OOP/main/IMG_0839.png)
+![Class Diagram](/Group6-TA-OOP/(root)/IMG_0839.png)
