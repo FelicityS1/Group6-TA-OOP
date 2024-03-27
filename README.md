@@ -25,18 +25,36 @@ Each section has been created to give clear explanations, step-by-step instructi
 
 **USING THE PAYROLL SYSTEM**
 
-1. Secure Login Procedures:
+**1. Secure Login Procedures:**
    
    *Users access the system using unique login credentials comprising a username and password, ensuring secure authentication and access control.*
 
-2. Salary and Deduction Calculations:
+**2. Salary and Deduction Calculations:**
    
    *The system computes salaries based on predefined algorithms, considering factors such as hours worked, overtime, deductions, and bonuses/allowances facilitating accurate and automated salary calculations.*
 
-3. Leave Applications:
+**3. Leave Applications:**
    
    *Users can submit leave requests through the leave request page, selecting from various leave types like sick leave and vacation. They specify the duration of their absence and provide additional notes for approval.*
 
-4. Accessing Their Payroll:
+**4. Accessing Their Payroll:**
    
    *Employees can view their payslips directly from the system, providing transparent access to salary information and deductions.*
+
+**5. Updating and Viewing of Personal Information:**
+
+   *Employees can view and update (selected and upon approval of HR) their personal information, ensuring accurate payroll processing and communication.*
+
+**6. Viewing Leave Balances**
+
+   *Employees can check their leave balances and accruals in real-time, enabling them to plan their time off effectively and align with company policies.**
+
+**7. Employee Management**
+
+   *HR personnel can manage employee profiles, including onboarding new hires, updating employee details, and recording terminations, ensuring accurate and up-to-date employee records.*
+
+**8. Configuring Payroll**
+
+   *Finance/HR officers can configure payroll settings, such as tax rates, benefit deductions, and overtime rules, providing flexibility to adapt to changing regulatory requirements and organisational policies.*
+
+
