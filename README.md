@@ -7,6 +7,7 @@ Members: Felicity Diana Sario, Marjorie Navarro
 <hr style="border:2px solid yellow">
 
 
+
 ### INTRODUCTION
 
 The MotorPH payroll system  is designed to facilitate and simplify the experience of managing and handling employee payrolls. 
