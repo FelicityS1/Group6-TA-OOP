@@ -11,17 +11,13 @@ Members: Felicity Diana Sario, Marjorie Navarro
 The MotorPH payroll system  is designed to facilitate and simplify the experience of managing and handling employee payrolls. 
 It includes features such as employee dashboard, profile management, leave requests, attendance  tracking, and salary calculation.
 It uses user roles and permissions to ensure data security and privacy.
-
-
-
+<br />
 ### INTENDED AUDIENCE                                                                                        
 **• MotorPH Employees                                                                                                                                                                                                                                                               
 • Human Resource Department                                                                                                                                                                                                                                                            
 • Finance or Payroll Department                                                                                                                                                                                                                                                     
 • IT Department**
-
-
-
+<br />
 ### GETTING STARTED
  
 Each section has been created to give clear explanations, step-by-step instructions, and relevant examples to help you navigate different parts of the payroll system. 
@@ -31,7 +27,7 @@ Each section has been created to give clear explanations, step-by-step instructi
    1. The user must have a laptop or PC
 
 
-
+<br />
 ### USING THE PAYROLL SYSTEM
 
 **1. Secure Login Procedures:**
@@ -74,7 +70,7 @@ Each section has been created to give clear explanations, step-by-step instructi
    *Finance/HR officers can configure payroll settings, such as tax rates, benefit deductions, and overtime rules, providing flexibility to adapt to changing regulatory requirements and organisational policies.*
 
 
-
+<br />
 ### TECHNICAL INFORMATION
 
 **CLASS DIAGRAM**
