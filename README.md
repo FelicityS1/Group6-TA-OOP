@@ -72,6 +72,7 @@ Each section has been created to give clear explanations, step-by-step instructi
 
 
 <br />
+
 ### TECHNICAL INFORMATION
 
 **CLASS DIAGRAM**
