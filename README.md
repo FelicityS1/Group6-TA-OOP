@@ -91,4 +91,4 @@ Each section has been created to give clear explanations, step-by-step instructi
 
 **USE CASE DIAGRAM**
 
-![Use Case](/MotorPH-Payroll-System.png)
+![Use Case](/IMG.png)
