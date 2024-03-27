@@ -22,6 +22,9 @@ It uses user roles and permissions to ensure data security and privacy.
  
 Each section has been created to give clear explanations, step-by-step instructions, and relevant examples to help you navigate different parts of the payroll system. 
 
+    FUNDAMENTAL REQUIREMENTS
+    1. The user must poses a laptop of PC
+
 
 
 ### USING THE PAYROLL SYSTEM
