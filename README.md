@@ -1,6 +1,6 @@
-# Group 6 Terminal Assessment - OOP
+## Group 6 Terminal Assessment - OOP
 
-## GROUP INFORMATION  
+### GROUP INFORMATION  
 Section: A2101                                                                                                                     
 Group No:  6                                                                                                                      
 Members: Felicity Diana Sario, Marjorie Navarro                                    
@@ -14,12 +14,16 @@ The MotorPH payroll system  is designed to facilitate and simplify the experienc
 It includes features such as employee dashboard, profile management, leave requests, attendance  tracking, and salary calculation.
 It uses user roles and permissions to ensure data security and privacy.
 <br />
-### INTENDED AUDIENCE                                                                                        
+
+### INTENDED AUDIENCE 
+
 **• MotorPH Employees                                                                                                                                                                                                                                                               
 • Human Resource Department                                                                                                                                                                                                                                                            
 • Finance or Payroll Department                                                                                                                                                                                                                                                     
 • IT Department**
+
 <br />
+
 ### GETTING STARTED
  
 Each section has been created to give clear explanations, step-by-step instructions, and relevant examples to help you navigate different parts of the payroll system. 
