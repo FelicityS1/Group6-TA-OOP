@@ -47,7 +47,7 @@ Each section has been created to give clear explanations, step-by-step instructi
 
 **6. Viewing Leave Balances**
 
-   *Employees can check their leave balances and accruals in real-time, enabling them to plan their time off effectively and align with company policies.**
+   *Employees can check their leave balances and accruals in real-time, enabling them to plan their time off effectively and align with company policies.*
 
 **7. Employee Management**
 
