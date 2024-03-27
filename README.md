@@ -1,15 +1,18 @@
-## GROUP INFORMATION                                                                                                                                  
+## GROUP INFORMATION  
 Section: A2101                                                                                                                     
 Group No:  6                                                                                                                      
 Members: Felicity Diana Sario, Marjorie Navarro                                                                                       
 
----
+
+***
+
 
 ### INTRODUCTION
 
 The MotorPH payroll system  is designed to facilitate and simplify the experience of managing and handling employee payrolls. 
 It includes features such as employee dashboard, profile management, leave requests, attendance  tracking, and salary calculation.
 It uses user roles and permissions to ensure data security and privacy.
+
 
 
 ### INTENDED AUDIENCE                                                                                        
@@ -19,12 +22,14 @@ It uses user roles and permissions to ensure data security and privacy.
 • IT Department**
 
 
+
 ### GETTING STARTED
  
 Each section has been created to give clear explanations, step-by-step instructions, and relevant examples to help you navigate different parts of the payroll system. 
 
-   FUNDAMENTAL REQUIREMENTS
-    1. The user must poses a laptop of PC
+  FUNDAMENTAL REQUIREMENTS
+   
+   1. The user must have a laptop or PC
 
 
 
