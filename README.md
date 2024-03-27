@@ -88,3 +88,7 @@ Each section has been created to give clear explanations, step-by-step instructi
 **CLASS DIAGRAM**
 
 ![Class Diagram](/IMG_0839.png)
+
+**USE CASE DIAGRAM**
+
+![Use Case](/MotorPH-Payroll-System.png)
