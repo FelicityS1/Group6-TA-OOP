@@ -1,34 +1,30 @@
-♥♥♥ Group Information ♥♥♥                                                                                                                                  
+## Group Information ♥♥♥                                                                                                                                  
 Section: A2101                                                                                                                     
 Group No:  6                                                                                                                      
 Members: Felicity Diana Sario, Marjorie Navarro                                                                                       
 
 
-
-
-
-
-### ♥♥♥ Introduction ♥♥♥
+### INTRODUCTION
 
 The MotorPH payroll system  is designed to facilitate and simplify the experience of managing and handling employee payrolls. 
-It includes features  employee dashboard, profile management, leave requests, attendance  tracking, and salary calculation.
+It includes features such as employee dashboard, profile management, leave requests, attendance  tracking, and salary calculation.
 It uses user roles and permissions to ensure data security and privacy.
 
 
-### ♥♥♥ Intended Audience ♥♥♥                                                                                                                                                                                                                                                        
-• MotorPH Employees                                                                                                                                                                                                                                                               
-• Human Resources                                                                                                                                                                                                                                                                 
+### INTENDED AUDIENCE                                                                                        
+**• MotorPH Employees                                                                                                                                                                                                                                                               
+• Human Resource Department                                                                                                                                                                                                                                                            
 • Finance or Payroll Department                                                                                                                                                                                                                                                     
-• IT Department 
+• IT Department**
 
 
- ♥♥♥ Getting Started ♥♥♥  
+### GETTING STARTED
  
 Each section has been created to give clear explanations, step-by-step instructions, and relevant examples to help you navigate different parts of the payroll system. 
 
 
 
-**USING THE PAYROLL SYSTEM**
+### USING THE PAYROLL SYSTEM
 
 **1. Secure Login Procedures:**
    
@@ -71,6 +67,7 @@ Each section has been created to give clear explanations, step-by-step instructi
 
 
 
-**TECHNICAL INFORMATION**
+### TECHNICAL INFORMATION
 
+**CLASS DIAGRAM**
 ![Class Diagram](/IMG_0839.png)
