@@ -15,7 +15,7 @@ It includes features  employee dashboard, profile management, leave requests, at
 It uses user roles and permissions to ensure data security and privacy.
 
 
-♥♥♥ Intended Audience ♥♥♥                                                                                                                                                                                                                                                        
+### ♥♥♥ Intended Audience ♥♥♥                                                                                                                                                                                                                                                        
 • MotorPH Employees                                                                                                                                                                                                                                                               
 • Human Resources                                                                                                                                                                                                                                                                 
 • Finance or Payroll Department                                                                                                                                                                                                                                                     
