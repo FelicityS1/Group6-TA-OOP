@@ -70,4 +70,5 @@ Each section has been created to give clear explanations, step-by-step instructi
 ### TECHNICAL INFORMATION
 
 **CLASS DIAGRAM**
+
 ![Class Diagram](/IMG_0839.png)
