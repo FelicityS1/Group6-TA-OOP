@@ -28,6 +28,7 @@ Each section has been created to give clear explanations, step-by-step instructi
 
 
 <br />
+
 ### USING THE PAYROLL SYSTEM
 
 **1. Secure Login Procedures:**
