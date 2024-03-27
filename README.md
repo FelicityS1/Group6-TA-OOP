@@ -8,7 +8,7 @@ Members: Felicity Diana Sario, Marjorie Navarro
 
 
 
-♥♥♥ Introduction ♥♥♥
+# Heading3 ♥♥♥ Introduction ♥♥♥
 
 The MotorPH payroll system  is designed to facilitate and simplify the experience of managing and handling employee payrolls. 
 It includes features  employee dashboard, profile management, leave requests, attendance  tracking, and salary calculation.
